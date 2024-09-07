@@ -12,7 +12,7 @@ let dados = [
             link: "https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&si=tEUoK6se9MxZ13Pu"
         },
         {
-            titulo: "JavaScript",
+            titulo: "Java Script",
             descricao: "JavaScript é uma linguagem de programação essencial para o desenvolvimento web, utilizada principalmente para criar interatividade em sites e aplicações web.",
             link: "https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=MpJzGtqZwZDt-h-g"
         },
