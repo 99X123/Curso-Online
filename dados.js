@@ -19,7 +19,7 @@ let dados = [
         {
             titulo: "Java",
             descricao: "Java é uma linguagem de programação orientada a objetos, amplamente utilizada para desenvolver aplicações web, móveis e corporativas.",
-            link: "https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&si=KEqw7fV3yDz5Dd7C"
+            link: "https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=-7mt-5h6ujOeLaSd"
         },
         {
             titulo: "C#",
