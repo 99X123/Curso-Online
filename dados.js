@@ -74,7 +74,7 @@ let dados = [
         {
             titulo: "Lua",
             descricao: "Lua é uma linguagem de programação leve e embutível, popular em desenvolvimento de jogos e aplicações integradas devido à sua simplicidade e eficiência.",
-            link: "https://youtube.com/playlist?list=PLJGZ8X1mZTR-0l5gRuzQG8a-v4GeGuDfg&si=nP2a3jiSDQolUNeX"
+            link: "https://youtube.com/playlist?list=PLx4x_zx8csUhdMczA1OSq9rM7N48L6OLU&si=vQOQpJXia9aH80cT"
         },
         {
             titulo: "Haskell",
